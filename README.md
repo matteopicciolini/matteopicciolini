@@ -1,4 +1,4 @@
-[![MasterHead](https://images8.alphacoders.com/560/560736.jpg)]
+![MasterHead](https://images8.alphacoders.com/560/560736.jpg)
 <h1 align="center">Hi 👋, I'm Matteo Picciolini</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif?20070212213115">
