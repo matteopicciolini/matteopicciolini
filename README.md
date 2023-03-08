@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Matteo Picciolini</h1>
+<h2 align="center">Hi 👋, I'm Matteo Picciolini</h2>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif?20070212213115">
-- 📫 How to reach me **picciolinimatteo@gmail.com**
+- 📫 How to reach me picciolinimatteo@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
