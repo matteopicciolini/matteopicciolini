@@ -1,6 +1,7 @@
 # 💫 About Me:
-I'm a master physics student.  I got my bachelor's degree in physics in 2022 in Milan. I am interested in general relativity and cosmology.<br>I'm 23 and I like programming, listening to classical music and programming while listening to classical music.
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif?20070212213115">
+I'm a master physics student.  I got my bachelor's degree in physics in 2022 in Milan. I am interested in general relativity and cosmology.<br>I'm 23 and I like programming, listening to classical music and programming while listening to classical music.
+
 
 
 ## 🌐 Socials:
