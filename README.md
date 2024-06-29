@@ -3,7 +3,7 @@
 I'm a master physics student.  I got my bachelor's degree in physics in 2022 in Milan. I am interested in general relativity and cosmology. 
 In the figure beside I show you one of the most fascinating things that I have had the privilege of studying. It is a simulation of the gravitational lensing phenomenon, which describes the deflection of light rays in the presence of very massive objects.
 
-I'm 23 and I like programming, listening to classical music and programming while listening to classical music.
+I'm 24 and I like programming, listening to classical music and programming while listening to classical music.
 
 Feel free to have a stroll around my profile. Suggestions to improve my code quality are always welcome! You can contact me at this e-mail: picciolinimatteo@gmail.com.
 
