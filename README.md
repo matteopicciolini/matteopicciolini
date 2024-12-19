@@ -5,7 +5,7 @@ In the figure beside I show you one of the most fascinating things that I have h
 
 I'm 24 and I like programming, listening to classical music and programming while listening to classical music.
 
-Feel free to have a stroll around my profile. Suggestions to improve my code quality are always welcome! You can contact me at this e-mail: picciolinimatteo@gmail.com.
+Feel free to have a scroll around my profile. Suggestions to improve my code quality are always welcome! You can contact me at this e-mail: picciolinimatteo@gmail.com.
 
 
 
