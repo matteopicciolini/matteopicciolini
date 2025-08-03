@@ -1,12 +1,14 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif?20070212213115">
-I'm a master physics student.  I got my bachelor's degree in physics in 2022 in Milan. I am interested in general relativity and cosmology. 
-In the figure beside I show you one of the most fascinating things that I have had the privilege of studying. It is a simulation of the gravitational lensing phenomenon, which describes the deflection of light rays in the presence of very massive objects.
+Hi! I’m Matteo, a freshly graduated physics master’s student from the University of Milan, passionate about general relativity, cosmology, and everything that bends spacetime.
 
-I'm 24 and I like programming, listening to classical music and programming while listening to classical music.
+In 2025, I completed my master’s thesis on synthetic maps of the perturbed gravitational-wave luminosity distance and their cross-correlations with large-scale structure probes — bridging theory, simulations, and data analysis.
 
-Feel free to have a scroll around my profile. Suggestions to improve my code quality are always welcome! You can contact me at this e-mail: picciolinimatteo@gmail.com.
+The animation on the right shows one of the most mind-bending phenomena I’ve had the chance to study: gravitational lensing, where massive objects warp spacetime and deflect light like a cosmic magnifying glass.
 
+When I’m not exploring the universe through equations and simulations, you’ll find me coding with classical music in the background, turning ideas into algorithms and data into insight.
+
+💌 Let’s connect: picciolinimatteo@gmail.com
 
 
 ### 🌐 Socials:
