@@ -6,7 +6,7 @@ In 2025, I completed my master’s thesis on synthetic maps of the perturbed gra
 
 The animation on the right shows one of the most mind-bending phenomena I’ve had the chance to study: gravitational lensing, where massive objects warp spacetime and deflect light like a cosmic magnifying glass.
 
-I’m passionate about programming, physics, classical music, and piano — and I love spending time surfing.
+I’m passionate about programming, physics, classical music and piano. I love spending time surfing.
 
 Let’s connect: picciolinimatteo@gmail.com
 
