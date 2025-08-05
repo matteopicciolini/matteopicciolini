@@ -1,4 +1,4 @@
-# 💫 About Me
+### 💫 About Me
 <img align="right" alt="Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Black_hole_lensing_web.gif?20070212213115">
 Hi! I’m Matteo, a freshly graduated physics master’s student from the University of Milan, passionate about general relativity, cosmology, and everything that bends spacetime.
 In 2025, I completed my master’s thesis on synthetic maps of the perturbed gravitational-wave luminosity distance and their cross-correlations with large-scale structure probes — bridging theory, simulations, and data analysis.
